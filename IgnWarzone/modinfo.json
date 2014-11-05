@@ -1,0 +1,10 @@
+{
+    "enabled" : true,
+    "context" : "server",
+    "identifier" : "IgnWarzone",
+    "display_name" : "IgnWarzone",
+    "description" : "Build a more epic PA.",
+    "author" : "Igncom1",
+    "version" : "1",
+    "signature" : "(not yet implemented)"
+}
