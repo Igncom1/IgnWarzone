@@ -18,6 +18,7 @@
   "model": {
     "filename": "/pa/units/air/missile_tactical/missile_tactical.papa"
   },
+  "events":{"died":{"audio_cue":"/SE/Impacts/bomb_bot_plasma","effect_spec":"/pa/units/land/bot_bomb/bot_bomb_ammo_explosion.pfx"}},
   "splash_damage": 0,
   "splash_radius": 0,
   "stages": [
