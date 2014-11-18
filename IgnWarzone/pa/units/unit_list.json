@@ -16,6 +16,7 @@
     "/pa/units/air/missile_orbital_booster/missile_orbital_booster.json",
     "/pa/units/air/transport/transport.json",
     "/pa/units/commanders/avatar/avatar.json",
+	
     "/pa/units/commanders/base_commander/base_commander.json",
     "/pa/units/commanders/imperial_alpha/imperial_alpha.json",
     "/pa/units/commanders/imperial_aryst0krat/imperial_aryst0krat.json",
@@ -40,6 +41,7 @@
     "/pa/units/commanders/raptor_rallus/raptor_rallus.json",
     "/pa/units/commanders/tank_aeson/tank_aeson.json",
     "/pa/units/commanders/tank_base/tank_base.json",
+	
     "/pa/units/land/aa_missile_vehicle/aa_missile_vehicle.json",
     "/pa/units/land/air_defense/air_defense.json",
     "/pa/units/land/air_defense_adv/air_defense_adv.json",
@@ -95,6 +97,7 @@
     "/pa/units/land/unit_cannon/unit_cannon.json",
     "/pa/units/land/vehicle_factory/vehicle_factory.json",
     "/pa/units/land/vehicle_factory_adv/vehicle_factory_adv.json",
+	
     "/pa/units/orbital/base_orbital/base_orbital.json",
     "/pa/units/orbital/base_orbital_structure/base_orbital_structure.json",
     "/pa/units/orbital/deep_space_radar/deep_space_radar.json",
@@ -105,13 +108,13 @@
     "/pa/units/orbital/orbital_egg/orbital_egg.json",
     "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot.json",
     "/pa/units/orbital/orbital_factory/orbital_factory.json",
-    "/pa/units/orbital/orbital_fighter/orbital_fighter.json",
     "/pa/units/orbital/orbital_lander/orbital_lander.json",
     "/pa/units/orbital/orbital_laser/orbital_laser.json",
     "/pa/units/orbital/orbital_launcher/orbital_launcher.json",
     "/pa/units/orbital/radar_satellite/radar_satellite.json",
     "/pa/units/orbital/radar_satellite_adv/radar_satellite_adv.json",
     "/pa/units/orbital/solar_array/solar_array.json",
+	
     "/pa/units/sea/attack_sub/attack_sub.json",
     "/pa/units/sea/base_ship/base_ship.json",
     "/pa/units/sea/battleship/battleship.json",

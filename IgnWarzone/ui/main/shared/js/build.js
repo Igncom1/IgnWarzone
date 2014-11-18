@@ -64,12 +64,11 @@ function BuildHotkeyModel() {
             "/pa/units/land/bot_tactical_missile/bot_tactical_missile.json": ["bot", 9],
      
             
-            "/pa/units/orbital/orbital_laser/orbital_laser.json": ["orbital", 6],
+            "/pa/units/orbital/orbital_laser/orbital_laser.json": ["orbital", 11],
             "/pa/units/orbital/radar_satellite_adv/radar_satellite_adv.json": ["orbital", 7],
             "/pa/units/orbital/solar_array/solar_array.json": ["orbital", 8],
             "/pa/units/orbital/defense_satellite/defense_satellite.json": ["orbital", 9],           
             "/pa/units/orbital/orbital_fabrication_bot/orbital_fabrication_bot.json": ["orbital", 10],
-            "/pa/units/orbital/orbital_fighter/orbital_fighter.json": ["orbital", 11],
             "/pa/units/orbital/radar_satellite/radar_satellite.json": ["orbital", 12],
             "/pa/units/orbital/orbital_lander/orbital_lander.json": ["orbital", 13],
             "/pa/units/orbital/orbital_factory/orbital_factory.json": ["orbital", 14],
