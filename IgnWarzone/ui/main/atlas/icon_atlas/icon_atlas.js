@@ -42,6 +42,7 @@ $(document).ready(function () {
             'fighter_adv',
             'bomber_adv',
             'bomber',
+			'kirov',
             'fabrication_aircraft_adv',
             'fabrication_aircraft',
             'unit_air_generic_adv',

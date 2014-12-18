@@ -10,4 +10,4 @@
   "model": {
     "filename": "/pa/units/air/shell/shell.papa"
   },
-  "damage":84,"splash_damage":0,"splash_radius":0,"initial_velocity":150.0,"max_velocity":150.0,"lifetime":2}
+  "damage":40,"splash_damage":10,"splash_radius":5,"initial_velocity":150.0,"max_velocity":150.0,"lifetime":2}
