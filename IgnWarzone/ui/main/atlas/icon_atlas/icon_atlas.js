@@ -8,8 +8,12 @@ $(document).ready(function () {
 
         self.strategicIconSource = function (string) { return 'img/strategic_icons/' + 'icon_si_' + string + '.png' }
         self.strategicIcons = ko.observableArray([
-            'blip',
+			'kirov',
+            'attack_sub',
+            'fabrication_sub',
+			'blip',
             'metal_splat_02',
+            'control_point_01',
             'celestial_object',
             'artillery_short',
             'artillery_long',
@@ -42,7 +46,6 @@ $(document).ready(function () {
             'fighter_adv',
             'bomber_adv',
             'bomber',
-			'kirov',
             'fabrication_aircraft_adv',
             'fabrication_aircraft',
             'unit_air_generic_adv',
@@ -108,7 +111,12 @@ $(document).ready(function () {
             'bot_bomb',
             'land_mine',
             'orbital_factory',
-            'transport'
+            'transport',
+            'control_module',
+            'control_point',
+            'mining_platform',
+            'metal_spot_preview',
+            'unit_cannon'
         ]);
 
         self.sendIconList = function () {
